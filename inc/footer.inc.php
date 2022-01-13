@@ -9,7 +9,7 @@
 		<img src="https://bluepanel.bugged.ro/img/Paysafecard_logo.svg" class="float-right img-fluid" style="max-width: 150px" width="150" height="26">
 		</div>
 		<div class="float-right text-white-50">
-		(c) bugged.ro 2012-2021 /
+		(c) bugged.ro 2012-2022 /
 		<a href="https://bluepanel.bugged.ro/terms" class="text-white-50">termeni si conditii</a> / <a href="https://bluepanel.bugged.ro/privacy" class="text-white-50">politica de confidentialitate</a>
 		/ <a href="https://bluepanel.bugged.ro/contact" class="text-white-50">contact</a>
 		<br>
