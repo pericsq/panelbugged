@@ -1198,6 +1198,8 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 									<div aria-labelledby="profile-tab" class="tab-pane fade" id="admintools" role="tabpanel">
 										
 										<div class="col-lg-5">
+											<br>
+											<br>
 											<div class="card  bg-purple text-white">
 												<div class="card-body">
 													<p class="card-title typography-headline">
