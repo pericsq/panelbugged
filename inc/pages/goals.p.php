@@ -1,4 +1,4 @@
-<div class="page-content">
+<?php echo '<div class="page-content">
 <div class="row-fluid">
 <div class="span12">
 
@@ -845,4 +845,5 @@ admin
 </div>
 </div>
 </div>
-</div>
+</div>';
+?>
