@@ -1,3 +1,4 @@
+<?php echo '
 <div class="page-content">
 <div class="row-fluid">
 <div class="span12">
@@ -47,4 +48,5 @@ Deschide tichet ajutor
 </div>
 </div>
 </div>
-</div>
+</div>';
+?>

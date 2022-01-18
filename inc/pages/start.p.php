@@ -1,3 +1,4 @@
+<?php echo'
 <form>
     <div class="page-content">
     <div class="row-fluid">
@@ -79,3 +80,5 @@
     </div>
     </div>
 </form>
+';
+?>

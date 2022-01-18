@@ -1,3 +1,4 @@
+<?php echo '
 <div class="page-content">
 <div class="row-fluid">
 <div class="span12">
@@ -2571,4 +2572,5 @@ Back item
 
 </div>
 </div>
-</div>
+</div>';
+?>

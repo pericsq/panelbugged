@@ -1,3 +1,4 @@
+<?php echo '
 <div class="page-content">
 <div class="row-fluid">
 <div class="span12">
@@ -29,4 +30,5 @@ test
 </div>
 </div>
 </div>
-</div>
+</div>';
+?>

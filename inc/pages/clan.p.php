@@ -1,3 +1,4 @@
+<?php echo '
 <div class="page-content">
 <div class="row-fluid">
 <div class="span12">
@@ -30,4 +31,5 @@ Clans
 </div>
 </div>
 </div>
-</div>
+</div>';
+?>

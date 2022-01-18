@@ -1,3 +1,4 @@
+<?php echo '
 <div class="page-content">
 <div class="row-fluid">
 <div class="span12">
@@ -21,4 +22,5 @@ Pagina nu a fost gasita.
 </div>
 </div>
 </div>
-</div>
+</div>';
+?>
