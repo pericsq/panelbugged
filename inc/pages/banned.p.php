@@ -30,7 +30,7 @@ Bans
 			echo '
 			<tr>
 				<td>'.Config::formatName($ban->player).'</td>
-				<td>'.$ban->Level.'</td>
+				<td>'.Config::getData("users", "level", $profile->id).'</td>
 				<td>'.($ban->day ? '<span class="label label-success label-transparent">'. $ban->day . ' days</span>' : '<span class="label label-danger label-transparent">Permanent</span>').'</td>
 				<td>'.Config::xss(Config::clean($ban->reason)).'</td>
 				<td>'.Config::formatName($ban->admin).'</td>

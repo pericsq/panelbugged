@@ -12,7 +12,7 @@
             <div class="card bg-dark-2 text-white">
                 <div class="card-body">
                     <div class="card-text">
-                        Total vehicles listed: <?php echo Config::$_PAGE_URL
+                        Total vehicles listed: <?php echo Config::$_PAGE_URL;?>
                     </div>
                 </div>
             </div>
