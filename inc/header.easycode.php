@@ -5,7 +5,7 @@ ob_start();
 
 error_reporting(1);
 
-if(!file_exists('inc/pages/' . self::$_url[0] . '.p.php') && strlen(self::$_url[0])) Config::gotoPage("");
+if(!file_exists('inc/pages/' . self::$_url[0] . '.easycode.php') && strlen(self::$_url[0])) Config::gotoPage("");
 
 $_SESSION['render'] = microtime(true);
 

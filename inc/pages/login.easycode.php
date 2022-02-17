@@ -2,10 +2,11 @@
 if(Config::isLogged()) Config::gotoPage("", 0);
 
 if(isset($_POST['login_submit']) && !Config::isLogged()) {
-  if(strlen($_POST['username']) && strlen($_POST['password']))
+  if(strlen($_POST['username']) && md5($_POST['password']))
   {
     $wcodero = Config::$g_con->prepare('SELECT `id`,`id` FROM `users` WHERE `name` = ? AND `password` = ?');
-    $wcodero->execute(array($_POST['username'],($_POST['password'])));
+    $wcodero->execute(array($_POST['username'], md5($_POST['password'])));
+    $wcodero->execute(array($_POST['username'], hash('sha256', $_POST['password'])));
     if($wcodero->rowCount()) {
       $account = $wcodero->fetch(PDO::FETCH_OBJ);
       echo'';
