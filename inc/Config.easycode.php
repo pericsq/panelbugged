@@ -7,7 +7,7 @@ class Config {
 	public static $htmlpurifier;
 	public static $_url = array();
 
-	public static $_PAGE_URL = 'http://localhost/bugged/panelbugged/';
+	public static $_PAGE_URL = 'http://localhost/panelbugged/';
 	public static $_LEADER_RANK = 6;
 	public static $jobs = array();
 	public static $_vehicles = array();
@@ -22,7 +22,7 @@ class Config {
 			'host' 		=> 	'localhost',
 			'username' 	=> 	'root',
 			'password' 	=> 	'',
-			'dbname' 	=> 	'bugged'
+			'dbname' 	=> 	'ezcode'
 		);
 
 		try {
