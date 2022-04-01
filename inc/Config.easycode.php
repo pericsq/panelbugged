@@ -61,15 +61,15 @@ class Config {
 
 	public static function getContent() {
 		require_once 'assets/vendor/library/HTMLPurifier.auto.php';
-		include_once 'inc/header.inc.php';
-		if(self::$_url[0] === 'signature') { include 'inc/pages/404.inc.php'; return; }
+		include_once 'inc/header.easycode.php';
+		if(self::$_url[0] === 'signature') { include 'inc/pages/404.ieasycodenc.php'; return; }
 		if(isset(self::$_url[0]) && !strlen(self::$_url[0]))
-			include_once 'inc/pages/index.inc.php';
+			include_once 'inc/pages/index.easycode.php';
 		else if(file_exists('inc/pages/' . self::$_url[0] . '.easycode.php')) 
 			include 'inc/pages/' . self::$_url[0] . '.easycode.php';
 		else
-			include_once 'inc/pages/404.inc.php'; 
-		include_once 'system/footer.inc.php';
+			include_once 'inc/pages/404.easycode.php'; 
+		include_once 'system/footer.easycode.php';
 	}
 	public static $mysqli;
 
