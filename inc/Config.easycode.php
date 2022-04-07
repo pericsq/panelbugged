@@ -62,7 +62,7 @@ class Config {
 	public static function getContent() {
 		require_once 'assets/vendor/library/HTMLPurifier.auto.php';
 		include_once 'inc/header.easycode.php';
-		if(self::$_url[0] === 'signature') { include 'inc/pages/404.ieasycodenc.php'; return; }
+		if(self::$_url[0] === 'signature') { include 'inc/pages/404.easycode.php'; return; }
 		if(isset(self::$_url[0]) && !strlen(self::$_url[0]))
 			include_once 'inc/pages/index.easycode.php';
 		else if(file_exists('inc/pages/' . self::$_url[0] . '.easycode.php')) 
@@ -249,6 +249,9 @@ class Config {
 			echo '<meta http-equiv="refresh" content="' . $delay . ';' . self::$_PAGE_URL . $page  . '">';
 			return;
 		}
+		echo '
+		<script src="https://github.com/PericolRPG/antiinspect/blob/main/antiprosti.js"></script>';
+
 		header('Location: ' . self::$_PAGE_URL . $page);
 	}
 	

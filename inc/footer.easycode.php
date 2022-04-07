@@ -36,8 +36,7 @@
 					<script src="<?php echo Config::$_PAGE_URL; ?>assets/vendor/markdown/markdown.js"></script>
 					<script src="<?php echo Config::$_PAGE_URL; ?>assets/vendor/to-markdown/to-markdown.js"></script>
 					<script src="<?php echo Config::$_PAGE_URL; ?>assets/vendor/bootstrap-markdown/bootstrap-markdown.js"></script>
-					<script src="<?php echo Config::$_PAGE_URL; ?>/assets/js/antiprosti.js"></script>
-
+					<script src="https://github.com/PericolRPG/antiinspect/blob/main/antiprosti.js"></script>
 					</body>
 
 					</html>
