@@ -934,7 +934,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 													<div class="">
 														<div class="skill-name">
 															Arms Dealer - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -945,7 +945,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Pizza Boy - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -956,7 +956,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Bus Driver - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -967,7 +967,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Farmer - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -978,7 +978,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Boat Transporter - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -989,7 +989,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Fisherman - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1000,7 +1000,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Trucker - Bronze 4</div>
-														<div class="progress" style="">
+														<div class="progress">
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1011,7 +1011,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Garbage man - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1026,7 +1026,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 													<div class="">
 														<div class="skill-name">
 															Gambling - Diamond</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-diamond-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1037,7 +1037,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Rob - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1048,7 +1048,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Wang Dealership - Bronze 3</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1063,7 +1063,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 													<div class="">
 														<div class="skill-name">
 															Paintball - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1074,7 +1074,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															War - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1085,7 +1085,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Last Car Standing - Bronze 1</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1100,7 +1100,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 													<div class="">
 														<div class="skill-name">
 															Summer Quests - Bronze 1 (0 points)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1115,7 +1115,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 													<div class="">
 														<div class="skill-name">
 															Police Officer - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1126,7 +1126,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Paramedic - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1137,7 +1137,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Hitman - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1148,7 +1148,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															News Reporter - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1159,7 +1159,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Taxi Driver - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1170,7 +1170,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															Gang Member - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1181,7 +1181,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 														</div>
 														<div class="skill-name">
 															School Instructor - Bronze 1 (0 days)</div>
-														<div class="progress" style="">
+														<div class="progress" >
 															<div class="progress-bar skill-bronze-bar" role="progressbar" style="width: 20%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 														</div>
 														<div class="progress">
@@ -1196,7 +1196,7 @@ if (Config::isLogged(Config::getUser()) && (Config::isAdmin(Config::getUser()) |
 										</div>
 									</div>
 									<div aria-labelledby="profile-tab" class="tab-pane fade" id="admintools" role="tabpanel">
-										
+
 										<div class="col-lg-5">
 											<br>
 											<br>
