@@ -61,7 +61,7 @@ class Config {
 
 	public static function getContent()
 	{
-		require_once 'assets/vendor/library/HTMLPurifier.auto.php';
+		require_once 'easycode/vendor/library/HTMLPurifier.auto.php';
 		include_once 'inc/header.easycode.php';
 		if (self::$_url[0] === 'signature') {
 			include 'inc/pages/' . self::$_url[0] . '.easycode.php';
