@@ -74,7 +74,7 @@ else {
 <body>
 <div class="main-content">
 <nav class="navbar navbar-expand-xl navbar-dark bg-bluepanel" id="ihatesidebars">
-<a class="navbar-brand" href="<?php echo Config::$_PAGE_URL; ?>easycode/index.html">BUGGED</a>
+<a class="navbar-brand" href="<?php echo Config::$_PAGE_URL; ?>easycode/index.html">PURPLE BUGGED</a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>

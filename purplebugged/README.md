@@ -1,2 +1,4 @@
 ## Panel SA:MP
-blue.bugged.ro
+purplepanel.bugged.ro
+
+https://imgur.com/OnQ7stc
