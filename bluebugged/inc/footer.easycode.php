@@ -7,13 +7,13 @@
 		<div class="card-text">
 			<div class="float-left">
 				<p class="float-right img-fluid" style="color: white;">
-					Development with ❤️ by <a href="https://www.easy-code.ro/" style="color: purple;">Easy-Code</a></p>
+					Development with ❤️ by <a href="https://www.easy-code.ro/" style="color: blue;">Easy-Code</a></p>
 			</div>
 			<div class="float-right text-white-50">
 				<p style="color: white;">
-					(c) purplepanel.bugged.ro - 2022 | This page took <a style="color: purple;"> <?php printf("%.3f", $creationtime) ?> </a> seconds to render | Version 1.5.0b
+					(c) purplepanel.bugged.ro - 2022 | This page took <a style="color: blue;"> <?php printf("%.3f", $creationtime) ?> </a> seconds to render | Version 1.5.0b
 				</p>
-				</div>
+			</div>
 		</div>
 	</div>
 </footer>
