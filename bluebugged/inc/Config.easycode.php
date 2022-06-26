@@ -7,7 +7,7 @@ class Config {
 	public static $htmlpurifier;
 	public static $_url = array();
 
-	public static $_PAGE_URL = 'http://localhost/panelbugged/bluebugged/';
+	public static $_PAGE_URL = 'http://localhost/panelbuggedre/bluebugged/';
 	public static $_LEADER_RANK = 6;
 	public static $jobs = array();
 	public static $_vehicles = array();
