@@ -13,7 +13,7 @@ class Config {
 	public static $_vehicles = array();
 	public static $_vehColors = array();
 	public static $EMAIL = 'pericolrpgytb@gmail.com';
-	public static $_DOMAIN = 'localhost';
+	public static $_DOMAIN = 'easy-code.ro';
 	public static $_API = 'demo';
 	public static $_DONATION = 5;
 
