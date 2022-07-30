@@ -7,13 +7,13 @@ class Config {
 	public static $htmlpurifier;
 	public static $_url = array();
 
-	public static $_PAGE_URL = 'http://localhost/panelbuggedre/bluebugged/';
+	public static $_PAGE_URL = 'http://localhost/panelbugged/purplebugged/';
 	public static $_LEADER_RANK = 6;
 	public static $jobs = array();
 	public static $_vehicles = array();
 	public static $_vehColors = array();
 	public static $EMAIL = 'pericolrpgytb@gmail.com';
-	public static $_DOMAIN = 'localhost';
+	public static $_DOMAIN = 'easy-code.ro';
 	public static $_API = 'demo';
 	public static $_DONATION = 5;
 
@@ -22,7 +22,7 @@ class Config {
 			'host' 		=> 	'localhost',
 			'username' 	=> 	'root',
 			'password' 	=> 	'',
-			'dbname' 	=> 	'ezcode'
+			'dbname' 	=> 	't2pserver'
 		);
 
 		try {
@@ -61,7 +61,7 @@ class Config {
 
 	public static function getContent()
 	{
-		require_once 'easycode/vendor/library/HTMLPurifier.auto.php';
+		require_once 'pericolrpg/vendor/library/HTMLPurifier.auto.php';
 		include_once 'inc/header.easycode.php';
 		if (self::$_url[0] === 'signature') {
 			include 'inc/pages/' . self::$_url[0] . '.easycode.php';
@@ -712,4 +712,3 @@ class Config {
 
 	}
 }
-?>

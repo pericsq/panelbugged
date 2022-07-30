@@ -66,15 +66,15 @@ else {
 <meta charset="utf-8">
 <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
 <title>bluepanel.bugged.ro | user panel</title>
-<script src="<?php echo Config::$_PAGE_URL; ?>easycode/cdn-cgi/apps/head/29VAPGSEMU1KgjM7TIO47CeGv9w.js"></script><link href="<?php echo Config::$_PAGE_URL; ?>easycode/css/material.min.css" rel="stylesheet">
-<link href="<?php echo Config::$_PAGE_URL; ?>easycode/css/material-custom.css" rel="stylesheet">
+<script src="<?php echo Config::$_PAGE_URL; ?>pericolrpg/cdn-cgi/apps/head/29VAPGSEMU1KgjM7TIO47CeGv9w.js"></script><link href="<?php echo Config::$_PAGE_URL; ?>pericolrpg/css/material.min.css" rel="stylesheet">
+<link href="<?php echo Config::$_PAGE_URL; ?>pericolrpg/css/material-custom.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet">
 <title>Bugged</title>
 </head>
 <body>
 <div class="main-content">
 <nav class="navbar navbar-expand-xl navbar-dark bg-bluepanel" id="ihatesidebars">
-<a class="navbar-brand" href="<?php echo Config::$_PAGE_URL; ?>easycode/index.html">BUGGED</a>
+<a class="navbar-brand" href="<?php echo Config::$_PAGE_URL; ?>pericolrpg/index.html">BUGGED</a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>
@@ -150,15 +150,15 @@ More
 <div style="display: contents;">
 <span class="d-xl-none d-lg-none">
 </span>
-<a href="<?php echo Config::$_PAGE_URL; ?>easycode/login" class="d-xl-none d-lg-none">
+<a href="<?php echo Config::$_PAGE_URL; ?>pericolrpg/login" class="d-xl-none d-lg-none">
 <i class="material-icons bg-bluepanel" style="font-size: 40px; padding-right: 0px">notifications</i>
 </a>
 <div class="dropdown d-none d-lg-block">
-<a href="<?php echo Config::$_PAGE_URL; ?>easycode/" data-toggle="dropdown" id="loadnotifications">
+<a href="<?php echo Config::$_PAGE_URL; ?>pericolrpg/" data-toggle="dropdown" id="loadnotifications">
 <i class="material-icons bg-bluepanel" style="font-size: 40px">notifications</i>
 </a>
 <div class="notifications dropdown-menu dropdown-menu-right " id="notifications" style="width: 50vw; background: black" class="bg-dark-2">
-<a class="dropdown-item text-white" href="<?php echo Config::$_PAGE_URL; ?>easycode/login.html">Loading...</a>
+<a class="dropdown-item text-white" href="<?php echo Config::$_PAGE_URL; ?>pericolrpg/login.html">Loading...</a>
 </div>
 </div>
 <?php if(!Config::isLogged()) { 
@@ -201,13 +201,13 @@ Level '.Config::getData("users","Level",Config::getUser()).'
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="https://github.com/PericolRPG/antiinspect/blob/main/antiprosti.js"></script>
 
-<script src="<?php echo Config::$_PAGE_URL; ?>easycodejs/material.min.js"></script>
+<script src="<?php echo Config::$_PAGE_URL; ?>pericolrpgjs/material.min.js"></script>
 
 
-<script type="text/javascript" src="<?php echo Config::$_PAGE_URL; ?>easycode/cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.minfc12.js?forceLang=ro&amp;tracking=1&amp;thirdparty=1&amp;always=1&amp;noGeoIp=1&amp;showNoConsent=1&amp;privacyPage=http%3A%2F%2Fbluepanel.bugged.ro%2Fprivacy"></script>
+<script type="text/javascript" src="<?php echo Config::$_PAGE_URL; ?>pericolrpg/cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.minfc12.js?forceLang=ro&amp;tracking=1&amp;thirdparty=1&amp;always=1&amp;noGeoIp=1&amp;showNoConsent=1&amp;privacyPage=http%3A%2F%2Fbluepanel.bugged.ro%2Fprivacy"></script>
 
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i|Roboto+Mono:300,400,700|Roboto+Slab:300,400,700&amp;display=swap" rel="stylesheet">
-<script defer src="<?php echo Config::$_PAGE_URL; ?>easycode/static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6a89c4396e981fa2","version":"2021.10.0","r":1,"token":"fe410fec29da4a93b9061f12f264a111","si":100}'></script>
+<script defer src="<?php echo Config::$_PAGE_URL; ?>pericolrpg/static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6a89c4396e981fa2","version":"2021.10.0","r":1,"token":"fe410fec29da4a93b9061f12f264a111","si":100}'></script>
 </body>
 
 </html>

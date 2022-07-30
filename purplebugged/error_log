@@ -7,3 +7,4 @@ SQLSTATE[HY000] [2002] No connection could be made because the target machine ac
 
 SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
 
+SQLSTATE[HY000] [1049] Unknown database 'white'

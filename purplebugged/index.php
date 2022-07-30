@@ -1,10 +1,12 @@
 <?php
 session_start();
-define('easy-code.ro', true);
+define('leaks.ro', true);
 
 spl_autoload_register(function ($class) {
-    include 'inc/' . $class . '.easycode.php';
+    include 'inc/' . $class . '.php';
 });
 
 Config::init()->getContent();
 ?>
+
+<!-- Development by PericolRPG -->

@@ -1,6 +1,11 @@
 ## Panel SA:MP
 
--> bluepanel.bugged.ro by easy-code.ro
+-> bluepanel.bugged.ro by PericolRPG
 #
--> purplepanel.bugged.ro by easy-code.ro
-SLAKSF
+-> purplepanel.bugged.ro by PericolRPG
+
+
+## Contact:
+> Discord - PericolRPG#0001
+> [Youtube](https://youtube.com/PericolRPG)
+> Insta - @iampericol.official
