@@ -6,6 +6,6 @@
 
 
 ## Contact:
-# Discord - PericolRPG#0001
-# [Youtube](https://youtube.com/PericolRPG)
-# Insta - @iampericol.official
+-> Discord - PericolRPG#0001
+-> [Youtube](https://youtube.com/PericolRPG)
+-> Insta - @iampericol.official
