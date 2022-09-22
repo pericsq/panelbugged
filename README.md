@@ -8,4 +8,4 @@
 ## Contact:
 - Discord - PericolRPG#0001
 - [Youtube](https://youtube.com/PericolRPG)
-- Insta - @iampericol.official
+- Insta - @pericolrpg_ytb
